@@ -1,4 +1,5 @@
-# challenge-1
+# Challenges-Advent-of-JavaScript
+24 JavaScript Challenges for the Season - https://www.adventofjs.com/
 
 ## Project setup
 ```
